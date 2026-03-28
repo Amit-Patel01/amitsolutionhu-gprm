@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="flex items-center gap-2 mb-1">
             <div className="w-1.5 h-1.5 bg-purple-500 rounded-full"></div>
             <p className="text-white font-semibold text-sm tracking-wide">
-              GPRM
+           Amit Solution Hub GPRM
             </p>
           </div>
           <p className="text-xs text-slate-500">
